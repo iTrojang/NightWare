@@ -9,7 +9,7 @@ import keyboard
 
 labels = []
 
-API_KEY = 'a7e402d0-3fa4-49d0-a966-3a93145e2a60'
+API_KEY = 'USE /API NEW ON HYPIXEL AND PASTE IT HERE'
 
 def fetch(url):
     r = requests.get(url)
